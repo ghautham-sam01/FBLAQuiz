@@ -6,3 +6,4 @@ Each quiz participant has 30 seconds to answer the question. If they answer earl
 This app was made with AndroidStudio using JAVA and XML. It can be run on a laptop using an
 emulator or it can be run on an android phone/tablet.
  
+# 2026-06-19
